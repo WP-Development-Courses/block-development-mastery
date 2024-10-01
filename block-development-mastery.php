@@ -4,4 +4,6 @@
  * Update URI: false
  */
 
- const BDM_ROOT_DIR = __DIR__;
+const BDM_ROOT_DIR = __DIR__;
+
+require_once BDM_ROOT_DIR . '/inc/hello-world.php';
