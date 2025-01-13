@@ -1,0 +1,7 @@
+{
+    "apiVersion": 3,
+    "name": "bdm/hello-world",
+    "title": "Hello World",
+    "category": "block-development-mastery",
+    "editorScript": "file:index.js"
+}
