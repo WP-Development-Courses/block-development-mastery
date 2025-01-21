@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "bdm/block-assets",
+    "title": "Block Assets",
+    "category": "block-development-mastery",
+    "editorScript": "file:index.js",
+    "editorStyle": "file:index.css",
+    "viewScript": "file:view-script.js",
+    "script": "file:script.js",
+    "style": "file:style-index.css"
+}
