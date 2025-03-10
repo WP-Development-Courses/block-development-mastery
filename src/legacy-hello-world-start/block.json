@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "bdm/legacy-hello-world-start",
+	"version": "0.1.0",
+	"title": "Legacy Hello World (Start)",
+	"category": "block-development-mastery",
+	"attributes": {
+		"message": {
+			"type": "string",
+			"source": "html",
+			"selector": ".wp-block-bcb-hello-world__message",
+			"default": ""
+		}
+	},
+	"editorScript": "file:index.js",
+	"style": "file:style-index.css"
+}
