@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "bdm/sidebar-spy",
+	"version": "0.1.0",
+	"title": "Sidebar Spy",
+	"category": "block-development-mastery",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:index.js",
+	"style": "file:style-index.css"
+}
